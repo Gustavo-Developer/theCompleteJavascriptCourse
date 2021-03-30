@@ -19,7 +19,7 @@ This repository is for you that need learn the Javascript Language
 
 ---
 
-## Contribuidores
+## Contributors
 
 <table>
   <tr>
