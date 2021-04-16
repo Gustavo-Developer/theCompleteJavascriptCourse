@@ -57,6 +57,8 @@ document.querySelector('.check').addEventListener('click', function () {
 
 document.querySelector('.again').addEventListener('click', function () {
 
+    let secretNumber = Math.trunc(Math.random() * 20) + 1;
+
     score = 20;
 
     document.querySelector('.score').textContent = score;
